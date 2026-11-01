@@ -51,7 +51,7 @@
  {
   "type": "image",
   "kind": "real",
-  "src": "../images/sausage.jpeg",
+  "src": "media/site-sausage.jpg",
   "alt": "ステンレスのトレーに並んだ自家製ソーセージ",
   "title": "ソーセージ:仕上がり"
  }
