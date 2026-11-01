@@ -1,1 +1,58 @@
-[]
+[
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "media/bacon-01-pork-belly-cut.jpg",
+  "alt": "豚バラ肉のブロックを切り分けたところ",
+  "title": "ベーコン:豚バラ肉をカット"
+ },
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "media/bacon-02-pork-belly-bagged.jpg",
+  "alt": "袋詰めした豚バラ肉のブロック",
+  "title": "ベーコン:熟成用に袋詰め"
+ },
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "media/bacon-03-smoker-box.jpg",
+  "alt": "木製の燻製箱。貼り紙には「自家製ベーコン 燻製中」",
+  "title": "ベーコン:店先の燻製箱"
+ },
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "media/roast-01-raw-beef.jpg",
+  "alt": "ローストビーフにする牛肉のブロック",
+  "title": "ローストビーフ:原料のお肉"
+ },
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "media/roast-02-searing.jpg",
+  "alt": "フライパンで焼き色をつける牛肉",
+  "title": "ローストビーフ:焼き色をつける"
+ },
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "media/roast-03-sliced.jpg",
+  "alt": "トレーに並べたローストビーフのスライス",
+  "title": "ローストビーフ:スライス"
+ },
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "media/roast-04-plated.jpg",
+  "alt": "容器に盛り付けたローストビーフ",
+  "title": "ローストビーフ:盛り付け"
+ },
+ {
+  "type": "image",
+  "kind": "real",
+  "src": "../images/sausage.jpeg",
+  "alt": "ステンレスのトレーに並んだ自家製ソーセージ",
+  "title": "ソーセージ:仕上がり"
+ }
+]
