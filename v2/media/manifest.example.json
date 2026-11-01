@@ -1,0 +1,4 @@
+[
+  {"type":"video","kind":"real","src":"media/IMG_xxxx.mp4","poster":"media/IMG_xxxx.poster.jpg","title":"ベーコンの燻製"},
+  {"type":"image","kind":"image","src":"media/stock-sample.jpg","alt":"イメージ","title":"イメージ写真(外部素材)"}
+]
